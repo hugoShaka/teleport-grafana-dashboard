@@ -1,4 +1,4 @@
-module github.com/hugoShaka/teleport-grafana-dashbaord
+module github.com/hugoShaka/teleport-grafana-dashboard
 
 go 1.24.5
 
